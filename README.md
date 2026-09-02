@@ -1,6 +1,8 @@
 # DFL
 What's DFL? DFL is a version of DBL that applies offline account patches.
 
+[Latest release](https://github.com/mintz45/DroidFridge-Launcher/releases/latest)
+
 ## Why does this exist?
 Because there's a lot of people who's been complaining about DBL
 having no offline account, and me, knowing that I have knowledge about
